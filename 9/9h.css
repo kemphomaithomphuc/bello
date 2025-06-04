@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+    font-family: arial;
+}
+.image {
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+input {
+    width: 500px;
+    border-radius: 30px;
+    padding-top: 12px;
+    padding-bottom: 12x;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    border: none;
+    margin-bottom: 30px;
+}
+.google-button{
+    background-color: rgb(245,245,245);    
+    border: none;
+    font-size: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.search-button{
+    margin-right: 10px;
+}

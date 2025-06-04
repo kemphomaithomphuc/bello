@@ -1,0 +1,17 @@
+.box-div{
+    font-family: arial;
+    border-width: 1px;
+    border-color: rgb(150, 150, 150);
+    border-style: solid;
+}
+p {
+    padding-left: 15px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.yes-button{
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
